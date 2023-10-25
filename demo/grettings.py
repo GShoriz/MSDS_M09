@@ -1,3 +1,3 @@
-def grettings ():
+def gretting ():
     """gretting a person"""
     print("Hello stranger, I'm a student at UVA studying Data Science.")
